@@ -123,8 +123,6 @@ Skyland is designed to run as a deployed web application on cloud infrastructure
 * AI features can be enabled or disabled at runtime
 
 The deployed version demonstrates that Skyland is a real, operational application rather than a local prototype.
-
-Live-Link: https://skyland-641852500526.us-west1.run.app/
 ---
 
 ## Project Purpose
