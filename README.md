@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Skyland
 
 Skyland is an **isometric city‑builder game** designed to demonstrate how blockchain concepts can be applied to interactive software systems in a clear, non‑financial, and educational way. Instead of focusing on wallets or real money, Skyland uses a ledger‑based simulation model to make ideas such as transactions, blocks, immutability, and verification visible inside gameplay.
